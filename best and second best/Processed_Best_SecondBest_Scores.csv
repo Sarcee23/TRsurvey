@@ -1,0 +1,241 @@
+User,Question,Model,Score,Rank
+Syamantak Sengupta,1,Hierarchical,2,Best
+Syamantak Sengupta,1,NLI,1,Second Best
+Syamantak Sengupta,1,Fact,0,None
+Syamantak Sengupta,1,Original,0,None
+Md Tousif Seikh,1,Hierarchical,2,Best
+Md Tousif Seikh,1,NLI,1,Second Best
+Md Tousif Seikh,1,Fact,0,None
+Md Tousif Seikh,1,Original,0,None
+Raunak Datta Nath,1,Hierarchical,2,Best
+Raunak Datta Nath,1,NLI,1,Second Best
+Raunak Datta Nath,1,Fact,0,None
+Raunak Datta Nath,1,Original,0,None
+Syamantak Sengupta,2,NLI,1,Second Best
+Syamantak Sengupta,2,Fact,0,None
+Syamantak Sengupta,2,Hierarchical,2,Best
+Syamantak Sengupta,2,Original,0,None
+Md Tousif Seikh,2,NLI,2,Best
+Md Tousif Seikh,2,Fact,0,None
+Md Tousif Seikh,2,Hierarchical,1,Second Best
+Md Tousif Seikh,2,Original,0,None
+Raunak Datta Nath,2,NLI,0,None
+Raunak Datta Nath,2,Fact,1,Second Best
+Raunak Datta Nath,2,Hierarchical,2,Best
+Raunak Datta Nath,2,Original,0,None
+Syamantak Sengupta,3,Hierarchical,1,Second Best
+Syamantak Sengupta,3,Original,0,None
+Syamantak Sengupta,3,NLI,2,Best
+Syamantak Sengupta,3,Fact,0,None
+Md Tousif Seikh,3,Hierarchical,2,Best
+Md Tousif Seikh,3,Original,0,None
+Md Tousif Seikh,3,NLI,1,Second Best
+Md Tousif Seikh,3,Fact,0,None
+Raunak Datta Nath,3,Hierarchical,2,Best
+Raunak Datta Nath,3,Original,0,None
+Raunak Datta Nath,3,NLI,0,None
+Raunak Datta Nath,3,Fact,1,Second Best
+Syamantak Sengupta,4,Fact,2,Best
+Syamantak Sengupta,4,Hierarchical,0,None
+Syamantak Sengupta,4,Original,0,None
+Syamantak Sengupta,4,NLI,1,Second Best
+Md Tousif Seikh,4,Fact,0,None
+Md Tousif Seikh,4,Hierarchical,1,Second Best
+Md Tousif Seikh,4,Original,0,None
+Md Tousif Seikh,4,NLI,2,Best
+Raunak Datta Nath,4,Fact,1,Second Best
+Raunak Datta Nath,4,Hierarchical,2,Best
+Raunak Datta Nath,4,Original,0,None
+Raunak Datta Nath,4,NLI,0,None
+Syamantak Sengupta,5,Hierarchical,2,Best
+Syamantak Sengupta,5,Fact,0,None
+Syamantak Sengupta,5,Original,1,Second Best
+Syamantak Sengupta,5,NLI,0,None
+Md Tousif Seikh,5,Hierarchical,2,Best
+Md Tousif Seikh,5,Fact,0,None
+Md Tousif Seikh,5,Original,0,None
+Md Tousif Seikh,5,NLI,1,Second Best
+Raunak Datta Nath,5,Hierarchical,1,Second Best
+Raunak Datta Nath,5,Fact,2,Best
+Raunak Datta Nath,5,Original,0,None
+Raunak Datta Nath,5,NLI,0,None
+Syamantak Sengupta,6,NLI,2,Best
+Syamantak Sengupta,6,Fact,1,Second Best
+Syamantak Sengupta,6,Original,0,None
+Syamantak Sengupta,6,Hierarchical,0,None
+Md Tousif Seikh,6,NLI,0,None
+Md Tousif Seikh,6,Fact,2,Best
+Md Tousif Seikh,6,Original,0,None
+Md Tousif Seikh,6,Hierarchical,1,Second Best
+Raunak Datta Nath,6,NLI,0,None
+Raunak Datta Nath,6,Fact,0,None
+Raunak Datta Nath,6,Original,1,Second Best
+Raunak Datta Nath,6,Hierarchical,2,Best
+Syamantak Sengupta,7,Fact,0,None
+Syamantak Sengupta,7,Hierarchical,0,None
+Syamantak Sengupta,7,Original,1,Second Best
+Syamantak Sengupta,7,NLI,2,Best
+Md Tousif Seikh,7,Fact,2,Best
+Md Tousif Seikh,7,Hierarchical,0,None
+Md Tousif Seikh,7,Original,1,Second Best
+Md Tousif Seikh,7,NLI,0,None
+Raunak Datta Nath,7,Fact,1,Second Best
+Raunak Datta Nath,7,Hierarchical,2,Best
+Raunak Datta Nath,7,Original,0,None
+Raunak Datta Nath,7,NLI,0,None
+Syamantak Sengupta,8,Fact,0,None
+Syamantak Sengupta,8,NLI,1,Second Best
+Syamantak Sengupta,8,Hierarchical,2,Best
+Syamantak Sengupta,8,Original,0,None
+Md Tousif Seikh,8,Fact,1,Second Best
+Md Tousif Seikh,8,NLI,0,None
+Md Tousif Seikh,8,Hierarchical,2,Best
+Md Tousif Seikh,8,Original,0,None
+Raunak Datta Nath,8,Fact,0,None
+Raunak Datta Nath,8,NLI,1,Second Best
+Raunak Datta Nath,8,Hierarchical,2,Best
+Raunak Datta Nath,8,Original,0,None
+Syamantak Sengupta,9,Hierarchical,2,Best
+Syamantak Sengupta,9,Original,1,Second Best
+Syamantak Sengupta,9,NLI,0,None
+Syamantak Sengupta,9,Fact,0,None
+Md Tousif Seikh,9,Hierarchical,2,Best
+Md Tousif Seikh,9,Original,0,None
+Md Tousif Seikh,9,NLI,0,None
+Md Tousif Seikh,9,Fact,1,Second Best
+Raunak Datta Nath,9,Hierarchical,2,Best
+Raunak Datta Nath,9,Original,1,Second Best
+Raunak Datta Nath,9,NLI,0,None
+Raunak Datta Nath,9,Fact,0,None
+Syamantak Sengupta,10,Fact,2,Best
+Syamantak Sengupta,10,NLI,0,None
+Syamantak Sengupta,10,Hierarchical,1,Second Best
+Syamantak Sengupta,10,Original,0,None
+Md Tousif Seikh,10,Fact,0,None
+Md Tousif Seikh,10,NLI,2,Best
+Md Tousif Seikh,10,Hierarchical,1,Second Best
+Md Tousif Seikh,10,Original,0,None
+Raunak Datta Nath,10,Fact,0,None
+Raunak Datta Nath,10,NLI,2,Best
+Raunak Datta Nath,10,Hierarchical,1,Second Best
+Raunak Datta Nath,10,Original,0,None
+Syamantak Sengupta,11,Fact,0,None
+Syamantak Sengupta,11,Hierarchical,2,Best
+Syamantak Sengupta,11,NLI,1,Second Best
+Syamantak Sengupta,11,Original,0,None
+Md Tousif Seikh,11,Fact,2,Best
+Md Tousif Seikh,11,Hierarchical,0,None
+Md Tousif Seikh,11,NLI,0,None
+Md Tousif Seikh,11,Original,1,Second Best
+Raunak Datta Nath,11,Fact,0,None
+Raunak Datta Nath,11,Hierarchical,2,Best
+Raunak Datta Nath,11,NLI,0,None
+Raunak Datta Nath,11,Original,1,Second Best
+Syamantak Sengupta,12,Original,1,Second Best
+Syamantak Sengupta,12,Hierarchical,2,Best
+Syamantak Sengupta,12,Fact,0,None
+Syamantak Sengupta,12,NLI,0,None
+Md Tousif Seikh,12,Original,1,Second Best
+Md Tousif Seikh,12,Hierarchical,0,None
+Md Tousif Seikh,12,Fact,2,Best
+Md Tousif Seikh,12,NLI,0,None
+Raunak Datta Nath,12,Original,0,None
+Raunak Datta Nath,12,Hierarchical,2,Best
+Raunak Datta Nath,12,Fact,1,Second Best
+Raunak Datta Nath,12,NLI,0,None
+Syamantak Sengupta,13,NLI,0,None
+Syamantak Sengupta,13,Fact,0,None
+Syamantak Sengupta,13,Original,1,Second Best
+Syamantak Sengupta,13,Hierarchical,2,Best
+Md Tousif Seikh,13,NLI,0,None
+Md Tousif Seikh,13,Fact,0,None
+Md Tousif Seikh,13,Original,1,Second Best
+Md Tousif Seikh,13,Hierarchical,2,Best
+Raunak Datta Nath,13,NLI,0,None
+Raunak Datta Nath,13,Fact,2,Best
+Raunak Datta Nath,13,Original,0,None
+Raunak Datta Nath,13,Hierarchical,1,Second Best
+Syamantak Sengupta,14,Fact,2,Best
+Syamantak Sengupta,14,Original,0,None
+Syamantak Sengupta,14,NLI,1,Second Best
+Syamantak Sengupta,14,Hierarchical,0,None
+Md Tousif Seikh,14,Fact,1,Second Best
+Md Tousif Seikh,14,Original,0,None
+Md Tousif Seikh,14,NLI,0,None
+Md Tousif Seikh,14,Hierarchical,2,Best
+Raunak Datta Nath,14,Fact,1,Second Best
+Raunak Datta Nath,14,Original,2,Best
+Raunak Datta Nath,14,NLI,0,None
+Raunak Datta Nath,14,Hierarchical,0,None
+Syamantak Sengupta,15,Hierarchical,2,Best
+Syamantak Sengupta,15,NLI,1,Second Best
+Syamantak Sengupta,15,Fact,0,None
+Syamantak Sengupta,15,Original,0,None
+Md Tousif Seikh,15,Hierarchical,2,Best
+Md Tousif Seikh,15,NLI,0,None
+Md Tousif Seikh,15,Fact,1,Second Best
+Md Tousif Seikh,15,Original,0,None
+Raunak Datta Nath,15,Hierarchical,2,Best
+Raunak Datta Nath,15,NLI,0,None
+Raunak Datta Nath,15,Fact,0,None
+Raunak Datta Nath,15,Original,1,Second Best
+Syamantak Sengupta,16,Original,2,Best
+Syamantak Sengupta,16,Hierarchical,1,Second Best
+Syamantak Sengupta,16,Fact,0,None
+Syamantak Sengupta,16,NLI,0,None
+Md Tousif Seikh,16,Original,1,Second Best
+Md Tousif Seikh,16,Hierarchical,2,Best
+Md Tousif Seikh,16,Fact,0,None
+Md Tousif Seikh,16,NLI,0,None
+Raunak Datta Nath,16,Original,0,None
+Raunak Datta Nath,16,Hierarchical,2,Best
+Raunak Datta Nath,16,Fact,1,Second Best
+Raunak Datta Nath,16,NLI,0,None
+Syamantak Sengupta,17,Original,2,Best
+Syamantak Sengupta,17,NLI,0,None
+Syamantak Sengupta,17,Fact,1,Second Best
+Syamantak Sengupta,17,Hierarchical,0,None
+Md Tousif Seikh,17,Original,1,Second Best
+Md Tousif Seikh,17,NLI,0,None
+Md Tousif Seikh,17,Fact,0,None
+Md Tousif Seikh,17,Hierarchical,2,Best
+Raunak Datta Nath,17,Original,0,None
+Raunak Datta Nath,17,NLI,2,Best
+Raunak Datta Nath,17,Fact,0,None
+Raunak Datta Nath,17,Hierarchical,1,Second Best
+Syamantak Sengupta,18,Hierarchical,2,Best
+Syamantak Sengupta,18,NLI,1,Second Best
+Syamantak Sengupta,18,Original,0,None
+Syamantak Sengupta,18,Fact,0,None
+Md Tousif Seikh,18,Hierarchical,1,Second Best
+Md Tousif Seikh,18,NLI,2,Best
+Md Tousif Seikh,18,Original,0,None
+Md Tousif Seikh,18,Fact,0,None
+Raunak Datta Nath,18,Hierarchical,2,Best
+Raunak Datta Nath,18,NLI,1,Second Best
+Raunak Datta Nath,18,Original,0,None
+Raunak Datta Nath,18,Fact,0,None
+Syamantak Sengupta,19,Hierarchical,2,Best
+Syamantak Sengupta,19,Fact,0,None
+Syamantak Sengupta,19,Original,1,Second Best
+Syamantak Sengupta,19,NLI,0,None
+Md Tousif Seikh,19,Hierarchical,1,Second Best
+Md Tousif Seikh,19,Fact,0,None
+Md Tousif Seikh,19,Original,2,Best
+Md Tousif Seikh,19,NLI,0,None
+Raunak Datta Nath,19,Hierarchical,1,Second Best
+Raunak Datta Nath,19,Fact,0,None
+Raunak Datta Nath,19,Original,2,Best
+Raunak Datta Nath,19,NLI,0,None
+Syamantak Sengupta,20,Hierarchical,2,Best
+Syamantak Sengupta,20,Fact,0,None
+Syamantak Sengupta,20,NLI,1,Second Best
+Syamantak Sengupta,20,Original,0,None
+Md Tousif Seikh,20,Hierarchical,2,Best
+Md Tousif Seikh,20,Fact,1,Second Best
+Md Tousif Seikh,20,NLI,0,None
+Md Tousif Seikh,20,Original,0,None
+Raunak Datta Nath,20,Hierarchical,2,Best
+Raunak Datta Nath,20,Fact,0,None
+Raunak Datta Nath,20,NLI,0,None
+Raunak Datta Nath,20,Original,1,Second Best
