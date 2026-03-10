@@ -1,0 +1,5 @@
+,Best,Worst,Neutral,Net Score,Win Rate (%),Loss Rate (%),Neutral Rate (%)
+Original,28,5,27,23,46.67,8.33,22.5
+Hierarchical,16,8,36,8,26.67,13.33,30.0
+NLI,12,17,31,-5,20.0,28.33,25.83
+Fact,4,30,26,-26,6.67,50.0,21.67
